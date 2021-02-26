@@ -2,7 +2,7 @@
 1.
 
 [rewrite_remote]
-# QQ阅读
+#QQ阅读
 https://raw.githubusercontent.com/Dean12321/qx_scripts/main/2.QQRead/Get_QQRead_URL.conf, tag=QQ阅读URL获取, update-interval=86400, opt-parser=false, enabled=true
 
 
