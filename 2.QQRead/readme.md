@@ -1,6 +1,6 @@
 
-
 1.
+
 [rewrite_remote]
 # QQ阅读
 https://raw.githubusercontent.com/Dean12321/qx_scripts/main/2.QQRead/Get_QQRead_URL.conf, tag=笑谱token获取(ziye, update-interval=86400, opt-parser=false, enabled=true
