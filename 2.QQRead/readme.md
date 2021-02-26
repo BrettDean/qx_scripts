@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/Dean12321/qx_scripts/main/2.QQRead/Get_QQRead_
 
 2.
 [task_local]
-10 */2 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/QQread.js, tag=笑谱完整版(by ziye, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Xiaopu.png, enabled=true
+10 */2 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/QQread.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/Dean12321/qx_scripts/main/2.QQRead/QQRead.jpg, enabled=true
 
 3.
 boxjs订阅
