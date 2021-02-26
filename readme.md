@@ -1,6 +1,7 @@
+
+
 1.
 [rewrite_remote]
-#
 # 笑谱token获取(by ziye
 https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/xp/xp_token.conf, tag=笑谱token获取(ziye, update-interval=86400, opt-parser=false, enabled=true
 
