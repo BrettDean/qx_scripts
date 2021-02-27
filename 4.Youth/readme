@@ -1,5 +1,16 @@
 
 [rewrite_remote]
+
+中青阅读body获取233
+https://raw.githubusercontent.com/Dean12321/qx_scripts/main/4.Youth/Youth.conf
+
+
+
+
+
+
+
+
 # 中青cookie获取
 https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/Youth/Youth_cookie.conf, tag=中青cookie获取, update-interval=86400, opt-parser=false, enabled=true
 
