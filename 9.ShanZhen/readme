@@ -1,3 +1,12 @@
+#zhiye's script
+
+
+[rewrite_remote]
+
+
+#闪挣ck
+https://raw.githubusercontent.com/Dean12321/qx_scripts/main/9.ShanZhen/ShanZhen_rewrite_remote.conf,tag=闪挣ck, update-interval=86400, opt-parser=false, enabled=true
+
 
 
 [task_local]
