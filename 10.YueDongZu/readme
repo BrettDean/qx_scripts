@@ -1,14 +1,17 @@
-#ziye's script
+#ziye11's script
+#悦动族
+
+
+[rewrite_remote]
+#悦动族ck
+https://raw.githubusercontent.com/Dean12321/qx_scripts/main/10.YueDongZu/YueDongZu_ck.conf,tag=悦动族ck, update-interval=86400, opt-parser=false, enabled=true
 
 
 
 
-
-
-
-
-
-
+[task_local]
+#悦动族
+0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.png, enabled=true
 
 
 
@@ -21,40 +24,49 @@
 
 
 /////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////
 
 
-
-
-ZIYE-scripts, [01.03.21 22:08]
 转载请备注个名字，谢谢
 
-⚠️悦动族   手机可能跑不了
+悦动族   手机可能跑不了
 点击 https://apps.apple.com/cn/app/%E6%82%A6%E5%8A%A8%E6%97%8F-%E8%AE%B0%E6%AD%A5%E8%BF%90%E5%8A%A8%E8%B5%B0%E8%B7%AF%E8%B5%9A%E9%92%B1%E8%BD%AF%E4%BB%B6/id1547158043 下载APP  
 
 2.28 制作
 3.1 完成
 
-⚠️ 时间设置    0,30 0-23 * * *    每天 25次以上就行 
+ 时间设置    0,30 0-23 * * *    每天 25次以上就行 
 
 一 视频助力手动也是不行的 
 二 默认0点睡23点醒，时间务必包括这两个点 
 (已内置随机udid，添加重写无视多设备检测，如非必要，勿频繁登录)
 
-⚠️一共1个位置 1个ck  👉 2条 Secrets 
+一共1个位置 1个ck   2条 Secrets 
 
 多账号换行
 第一步 添加  hostname=yuedongzu.yichengw.cn,
 
-第二步 ⚠️添加悦动族获取TOKEN重写  
+第二步 添加悦动族获取TOKEN重写  
 
 登录悦动族  获取token
 
-yuedongzutokenVal 👉YDZ_yuedongzuTOKEN
-CASH  👉  YDZ_CASH     可设置0 0.3 1 5 50 100 200 888  默认0关闭提现，设置888由上至下循环提现
+yuedongzutokenVal YDZ_yuedongzuTOKEN
+CASH    YDZ_CASH     可设置0 0.3 1 5 50 100 200 888  默认0关闭提现，设置888由上至下循环提现
 
+主机名以及重写
+hostname=yuedongzu.yichengw.cn,
 
+############## 圈x
+#悦动族获取TOKEN
+https:\/\/yuedongzu\.yichengw\.cn\/* url script-request-header https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js
 
+############## loon
+#悦动族获取TOKEN
+http-response https:\/\/yuedongzu\.yichengw\.cn\/* script-path=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, requires-body=1,max-size=0, tag=悦动族获取TOKEN
 
-
+############## surge
+#悦动族获取TOKEN
+悦动族获取TOKEN = type=http-response,pattern=https:\/\/yuedongzu\.yichengw\.cn\/*,script-path=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js
 
 */

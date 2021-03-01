@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/Dean12321/qx_scripts/main/3.bububao/Get_bububa
 [task_local]
 
 # 步步宝
-0,30 0-23 * * * https://raw.githubusercontent.com/Dean12321/qx_scripts/main/3.bububao/bububao.js, tag=步步宝, enabled=true
+0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/bububao.js tag=步步宝, enabled=true
 
 
 
