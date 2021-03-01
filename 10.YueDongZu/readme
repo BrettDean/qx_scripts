@@ -20,24 +20,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -70,19 +52,9 @@ ZIYE-scripts, [01.03.21 22:08]
 yuedongzutokenVal 👉YDZ_yuedongzuTOKEN
 CASH  👉  YDZ_CASH     可设置0 0.3 1 5 50 100 200 888  默认0关闭提现，设置888由上至下循环提现
 
-⚠️主机名以及重写👇
-hostname=yuedongzu.yichengw.cn,
 
-############## 圈x
-#悦动族获取TOKEN
-https:\/\/yuedongzu\.yichengw\.cn\/* url script-request-header https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js
 
-############## loon
-#悦动族获取TOKEN
-http-response https:\/\/yuedongzu\.yichengw\.cn\/* script-path=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, requires-body=1,max-size=0, tag=悦动族获取TOKEN
 
-############## surge
-#悦动族获取TOKEN
-悦动族获取TOKEN = type=http-response,pattern=https:\/\/yuedongzu\.yichengw\.cn\/*,script-path=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js
+
 
 */
