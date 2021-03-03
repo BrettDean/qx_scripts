@@ -1,12 +1,18 @@
 葱花视频
 
+成品:
+
+
+
+
+
 Quantumult X薅羊毛：
 「葱花视频」
 感谢原作者ChongHua
 类似中青看点，获取body自动刷视频获取金币提现至微信零钱，实测提现速度较快。
 
-第一步：接受邀请，随机获取1000-60000金币，因为app里面貌似找不到填写邀请码入口，所以务必通过邀请链接下载app：
-http://h5.kxp.com/invite/share?uid=320294&share_wap=wx&time=1609500966629
+第一步
+http://h5.kxp.com
 
 第二步：添加远程重写订阅
 编辑配置文件，在[rewrite_remote]下粘贴以下代码：
