@@ -89,17 +89,14 @@
 
 
 [age]<br /> 
-[caixukun]
-[nobyda](https://github.com/nobyda)
-[ziye66666](https://github.com/ziye66666)×
-[ziye11](https://github.com/ziye11)
-[Sunert](https://github.com/Sunert)
-
-[erdongchanyo](https://github.com/erdongchanyo)
-
-[GithubSync](https://github.com/CenBoMin/GithubSync)
-
-[xiaokxiansheng](https://github.com/xiaokxiansheng)
+[caixukun]<br /> 
+[nobyda](https://github.com/nobyda)<br /> 
+[ziye66666](https://github.com/ziye66666)×<br /> 
+[ziye11](https://github.com/ziye11)<br /> 
+[Sunert](https://github.com/Sunert)<br /> 
+[erdongchanyo](https://github.com/erdongchanyo)<br /> 
+[GithubSync](https://github.com/CenBoMin/GithubSync)<br /> 
+[xiaokxiansheng](https://github.com/xiaokxiansheng)<br /> 
 
 
 
