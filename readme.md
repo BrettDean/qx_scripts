@@ -1,9 +1,9 @@
 
-自用
+自用       所有脚本均只适合qx       只是把rewrite remote改成local
 
-所有脚本均只适合qx
 
-只是把rewrite remote改成local
+
+
 
 [00.ziye大佬GitHub挂了,将库上传telegram](https://github.com/Dean12321/qx_scripts/tree/main/00.JavaScript-main(ziye666))
 
@@ -15,7 +15,7 @@
 
 [04.中青](https://github.com/Dean12321/qx_scripts/tree/main/04.Youth)
 
-[05.蛋咖](Uhttps://github.com/Dean12321/qx_scripts/tree/main/05.dankaRL)
+[05.蛋咖](https://github.com/Dean12321/qx_scripts/tree/main/05.dankaRL)
 
 [06.云扫码](https://github.com/Dean12321/qx_scripts/tree/main/06.YunSaoMa)
 
@@ -43,8 +43,7 @@
 
 [18.汽车之家](https://github.com/Dean12321/qx_scripts/tree/main/18.QiCheZhiJa)
 
-[19.返利网](https://github.com/Dean12321/qx_scripts/tree/main/19.
-%E8%BF%94%E5%88%A9%E7%BD%91)
+[19.返利网](https://github.com/Dean12321/qx_scripts/tree/main/19.FanLiWang)
 
 [20.书旗小说](https://github.com/Dean12321/qx_scripts/tree/main/20.ShuQiXiaoShuo)
 
@@ -66,13 +65,22 @@
 
 
 age
+
 nobyda
+
 caixukun
+
 https://github.com/ziye66666  ×
+
+
 https://github.com/ziye11
+
 https://github.com/Sunert
+
 https://github.com/erdongchanyo
+
 https://github.com/CenBoMin/GithubSync
+
 https://github.com/xiaokxiansheng
 
 
