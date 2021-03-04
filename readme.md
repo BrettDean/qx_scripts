@@ -1,10 +1,10 @@
 
 自用...............所有脚本均只适合qx................只是把rewrite remote改成local
-
-
-
-
-
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
 [00.ziye大佬GitHub挂了,将库上传telegram](https://github.com/Dean12321/qx_scripts/tree/main/00.JavaScript-main(ziye666))
 
 [01.笑谱](https://github.com/Dean12321/qx_scripts/tree/main/01.XiaoPu)
