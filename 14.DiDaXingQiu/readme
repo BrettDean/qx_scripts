@@ -1,7 +1,7 @@
 
 [rewrite_remote]
 #嘀嗒星球ck
-https://raw.githubusercontent.com/Dean12321/qx_scripts/main/12.XuanShangMiaoMiao/XuanShangMiaoMiao_ck.conf ,tag=嘀嗒星球ck, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Dean12321/qx_scripts/main/14.DiDaXingQiu/DiDaXingQiu_ck.comf ,tag=嘀嗒星球ck, update-interval=86400, opt-parser=false, enabled=true
 
 
 
@@ -41,10 +41,6 @@ https://raw.githubusercontent.com/Dean12321/qx_scripts/main/12.XuanShangMiaoMiao
 下载地址 https://ddstar.palmmob.com/i/4/1PE5KEKPZD2M0VIwj5CM_0_0
 
 
-
-
-
-本脚本以学习为主！
 使用方法:
 共两个数据
 1,打开嘀嗒星球，点击天天分红，找到开宝箱得分红看完一个视频获得宝箱视频url
@@ -53,26 +49,3 @@ https://raw.githubusercontent.com/Dean12321/qx_scripts/main/12.XuanShangMiaoMiao
 
 
 
-
-boxjs地址 :  
-
-https://raw.githubusercontent.com/age174/-/main/feizao.box.json
-
-https://ddstar.palmmob.com/ddstar_app/activity/ReceiveAdBonus?bonusboxid=0&v=44&c=apple&t=1614800675&u=1PE5KEKPZD2M0VIwj5CM&x=e79fbd46a99572d11b00f2e7cc1cf3f9&
-
-https://ddstar.palmmob.com/ddstar_app/activity/ReceiveAdBonus?bonusboxid=1&v=44&c=apple&t=1614800373&u=1PE5KEKPZD2M0VIwj5CM&x=c412e9c6f7bc1b7898c4c0ab1350e02a&
-嘀嗒星球
-圈X配置如下，其他软件自行测试，定时可以多设置几次，没任务会停止运行的
-[task_local]
-#嘀嗒星球
-15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/ddxq.js, tag=嘀嗒星球,  enabled=true
-
-
-[rewrite_local]
-#嘀嗒星球
-https://ddstar.palmmob.com/ddstar_app/activity/ReceiveAdBonus? url script-request-header https://raw.githubusercontent.com/age174/-/main/ddxq.js
-
-
-
-[MITM]
-hostname = ddstar.palmmob.com
