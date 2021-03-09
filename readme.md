@@ -59,9 +59,10 @@
 
 
 vip破解整理(部分):
-[01.百度网盘vip](https://github.com/Dean12321/qx_scripts/tree/main/17.Pan.baidu.com)
+[01.百度网盘vip](https://github.com/Dean12321/qx_scripts/tree/main/VIPS/01.dupan_vip)
 
-[02.百度网盘-倍速播放](https://github.com/Dean12321/qx_scripts/tree/main/17.Pan.baidu.com)
+[02.百度网盘-倍速播放](https://github.com/Dean12321/qx_scripts/tree/main/VIPS/02.dupan_rapid_play)
+
 
 
 
