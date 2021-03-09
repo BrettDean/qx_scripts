@@ -17,18 +17,23 @@ https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/Youth/Y
 # 中青body获取
 https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/Youth/Youth_Read.conf, tag=中青body获取, update-interval=86400, opt-parser=false, enabled=true
 
+
+
+
 [task_local]
+
+
 # 中青签到&转盘宝箱
 */10 5-23 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag= 中青签到&转盘宝箱, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true
 
 # 中青自动阅读
 10 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true
 
-# 中青浏览赚
+# 中青浏览赚(不好用)
 20 5 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青浏览赚, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true
 
-
-
+# 中青看看赚(不好用)
+30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看看赚, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth.png, enabled=true
 
 
 
