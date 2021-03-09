@@ -54,7 +54,7 @@
 
 [22.芝嫲](https://github.com/Dean12321/qx_scripts/tree/main/22.ZhiMa)
 
-
+[23.火山视频极速版&燃旅视频](https://github.com/Dean12321/qx_scripts/tree/main/22.ZhiMa)
 
 
 
@@ -113,6 +113,8 @@
 [xiaokxiansheng](https://github.com/xiaokxiansheng)<br /> 
 [CenBoMin](https://github.com/CenBoMin)<br /> 
 [Light_Zero]<br /> 
+[ZhiYi-N]<br /> 
+
 
 
 
