@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/xp/xp_t
 
 3.
 [task_local]
-*/20 8-23 * * * https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js, tag=笑谱完整版(by ziye, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Xiaopu.png, enabled=true
+*/20 8-23 * * * https://raw.githubusercontent.com/Dean12321/ziyeScriptsSync/master/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/Dean12321/ziyeScriptsSync/master/Task/iboxpay.png, enabled=true
 
 4.
 boxjs订阅
