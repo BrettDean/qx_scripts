@@ -8,7 +8,7 @@
 
 [rewrite_remote]
 # 步步宝token获取
-https://raw.githubusercontent.com/Dean12321/qx_scripts/main/3.bububao/Get_bububao_Token.conf, tag=步步宝token获取, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/Dean12321/qx_scripts/main/03.bububao/Get_bububao_Token.conf, tag=步步宝token获取, update-interval=86400, opt-parser=false, enabled=true
 
 
 
