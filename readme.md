@@ -49,7 +49,7 @@
 
 [21.小乐](https://github.com/Dean12321/qx_scripts/tree/main/21.XiaoLe)
 
-[22.芝嫲](https://
+[22.芝嫲](https://github.com/Dean12321/qx_scripts/tree/main/22.ZhiMa)
 
 
 
