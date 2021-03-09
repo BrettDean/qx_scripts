@@ -27,7 +27,7 @@
 
 [10.悦动族](https://github.com/Dean12321/qx_scripts/tree/main/09.ShanZhen)
 
-[X   11.羊毛赚](https://github.com/Dean12321/qx_scripts/tree/main/11.YangMaoZhuan)
+[~~11.羊毛赚~~](https://github.com/Dean12321/qx_scripts/tree/main/11.YangMaoZhuan)
 
 [12.悬赏喵喵](https://github.com/Dean12321/qx_scripts/tree/main/12.XuanShangMiaoMiao)
 
