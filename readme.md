@@ -6,7 +6,7 @@
 <br /> 
 <br /> 
 
-#<font color="red" size=150>**羊毛s**</font>
+#<font color="red" size=150>**羊毛s:**</font>
 
 [00.ziye大佬GitHub挂了,将库上传telegram](https://github.com/Dean12321/qx_scripts/tree/main/00.JavaScript-main(ziye666))
 
