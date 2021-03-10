@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/Dean12321/qx_scripts/main/02.QQRead/Get_QQRead
 2.
 
 [task_local]
-10 */2 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/QQread.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/QQread.png, enabled=true
+10 */2 * * * https://raw.githubusercontent.com/Dean12321/ziyeScriptsSync/master/Task/QQread.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/Dean12321/ziyeScriptsSync/master/Task/QQread.png, enabled=true
 
 3.
 boxjs订阅
