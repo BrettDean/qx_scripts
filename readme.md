@@ -28,7 +28,7 @@
 
 [09.闪挣](https://github.com/Dean12321/qx_scripts/tree/main/09.ShanZhen)
 
-[10.悦动族](https://github.com/Dean12321/qx_scripts/tree/main/09.ShanZhen)
+[~~10.悦动族~~](https://github.com/Dean12321/qx_scripts/tree/main/09.ShanZhen)
 
 [~~11.羊毛赚~~](https://github.com/Dean12321/qx_scripts/tree/main/11.YangMaoZhuan)
 
