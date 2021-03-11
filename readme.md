@@ -58,7 +58,7 @@
 
 [24.春风转](https://github.com/Dean12321/qx_scripts/tree/main/24.ChunFengZhuan)
 
-
+[25.中国联通](https://github.com/Dean12321/qx_scripts/tree/main/25.ChinaUnicom)
 
 
 <font color="red" size=72>**vip破解整理(部分):**</font>

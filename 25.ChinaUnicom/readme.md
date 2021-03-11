@@ -1,0 +1,9 @@
+
+[rewrite_remote]
+# 中国联通
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.qxrewrite, tag=联通_获取cookie, update-interval=86400, opt-parser=true, enabled=false
+
+
+[task_local]
+# 中国联通
+15 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js, tag=联通_签到与抽奖, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png, enabled=true
