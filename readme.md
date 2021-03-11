@@ -54,11 +54,11 @@
 
 [22.芝嫲](https://github.com/Dean12321/qx_scripts/tree/main/22.ZhiMa)
 
-[23.火山视频极速版&燃旅视频](https://github.com/Dean12321/qx_scripts/tree/main/23.huoshan%26ranlv)
+[~~23.火山视频极速版&燃旅视频~~](https://github.com/Dean12321/qx_scripts/tree/main/23.huoshan%26ranlv)
 
 [24.春风转](https://github.com/Dean12321/qx_scripts/tree/main/24.ChunFengZhuan)
 
-[25.中国联通](https://github.com/Dean12321/qx_scripts/tree/main/25.ChinaUnicom)
+[~~25.中国联通~~](https://github.com/Dean12321/qx_scripts/tree/main/25.ChinaUnicom)
 
 
 <font color="red" size=72>**vip破解整理(部分):**</font>
