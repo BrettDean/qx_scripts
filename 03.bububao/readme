@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/Dean12321/qx_scripts/main/03.bububao/Get_bubub
 [task_local]
 
 # 步步宝
-0,30 0-23 * * * https://raw.githubusercontent.com/Dean12321/ziyeScriptsSync/master/Task/bububao.js, tag=步步宝,img-url=https://raw.githubusercontent.com/Dean12321/ziyeScriptsSync/master/Task/bububao.png, enabled=true
+0,30 0-23 * * * https://raw.githubusercontent.com/Dean12321/ziyeScriptsSync/master/Task/bububao.js, tag=步步宝,img-url=https://raw.githubusercontent.com/Dean12321/qx_scripts/main/03.bububao/bbb.png, enabled=true
 
 
 
