@@ -40,7 +40,7 @@
 
 [15.全民悦动](https://github.com/Dean12321/qx_scripts/tree/main/15.QuanMingYueDong)
 
-[16.天翼账号中心](https://github.com/Dean12321/qx_scripts/tree/main/16.TianYi)
+[~~16.天翼账号中心~~](https://github.com/Dean12321/qx_scripts/tree/main/16.TianYi)
 
 [17.百度网盘vip](https://github.com/Dean12321/qx_scripts/tree/main/17.Pan.baidu.com)
 
@@ -54,7 +54,7 @@
 
 [22.芝嫲](https://github.com/Dean12321/qx_scripts/tree/main/22.ZhiMa)
 
-[23.火山视频极速版&燃旅视频](https://github.com/Dean12321/qx_scripts/tree/main/22.ZhiMa)
+[23.火山视频极速版&燃旅视频](https://github.com/Dean12321/qx_scripts/tree/main/23.huoshan%26ranlv)
 
 [24.春风转](https://github.com/Dean12321/qx_scripts/tree/main/24.ChunFengZhuan)
 
