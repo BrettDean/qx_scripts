@@ -48,7 +48,7 @@
 
 [19.返利网](https://github.com/Dean12321/qx_scripts/tree/main/19.FanLiWang)
 
-[20.书旗小说](https://github.com/Dean12321/qx_scripts/tree/main/20.ShuQiXiaoShuo)
+[~~20.书旗小说~~](https://github.com/Dean12321/qx_scripts/tree/main/20.ShuQiXiaoShuo)
 
 [21.小乐](https://github.com/Dean12321/qx_scripts/tree/main/21.XiaoLe)
 
