@@ -60,6 +60,8 @@
 
 [~~25.中国联通~~](https://github.com/Dean12321/qx_scripts/tree/main/25.ChinaUnicom)
 
+[26.走路赚钱](https://github.com/Dean12321/qx_scripts/tree/main/26.ZouLuZhuanQian)
+
 
 <font color="red" size=72>**vip破解整理(部分):**</font>
 
