@@ -1,0 +1,7 @@
+filter remote
+
+
+https://raw.githubusercontent.com/Dean12321/qx_scripts/main/RULES/rules.conf, tag=自用规则修正（临）, update-interval=86400, opt-parser=false, enabled=true
+
+
+
