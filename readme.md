@@ -68,7 +68,7 @@
 
 [29.京东](https://github.com/Dean12321/qx_scripts/tree/main/29.JD)
 
-
+[30.书旗-CenBoMin](https://github.com/Dean12321/qx_scripts/tree/main/30.ShuQi-CenBoMin)
 
 
 
