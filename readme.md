@@ -28,7 +28,7 @@
 
 [09.闪挣](https://github.com/Dean12321/qx_scripts/tree/main/09.ShanZhen)
 
-[~~10.悦动族~~](https://github.com/Dean12321/qx_scripts/tree/main/09.ShanZhen)
+[~~10.悦动族(容易黑)~~](https://github.com/Dean12321/qx_scripts/tree/main/09.ShanZhen)
 
 [~~11.羊毛赚~~](https://github.com/Dean12321/qx_scripts/tree/main/11.YangMaoZhuan)
 
@@ -42,7 +42,7 @@
 
 [~~16.天翼账号中心~~](https://github.com/Dean12321/qx_scripts/tree/main/16.TianYi)
 
-[17.百度网盘vip](https://github.com/Dean12321/qx_scripts/tree/main/17.Pan.baidu.com)
+[17.番茄小说](https://github.com/Dean12321/qx_scripts/tree/main/17.FanQiexiaoShuo)
 
 [18.汽车之家](https://github.com/Dean12321/qx_scripts/tree/main/18.QiCheZhiJa)
 
@@ -60,8 +60,9 @@
 
 [~~25.中国联通~~](https://github.com/Dean12321/qx_scripts/tree/main/25.ChinaUnicom)
 
-[26.走路赚钱](https://github.com/Dean12321/qx_scripts/tree/main/26.ZouLuZhuanQian)
+[26.走路赚钱(容易黑)](https://github.com/Dean12321/qx_scripts/tree/main/26.ZouLuZhuanQian)
 
+[27.腾讯自选股](https://github.com/Dean12321/qx_scripts/tree/main/27.TengXunZiXuanGu)
 
 <font color="red" size=72>**vip破解整理(部分):**</font>
 
