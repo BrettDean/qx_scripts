@@ -18,7 +18,7 @@
 
 [04.中青](https://github.com/Dean12321/qx_scripts/tree/main/04.Youth)
 
-[05.蛋咖](https://github.com/Dean12321/qx_scripts/tree/main/05.dankaRL)
+[05.蛋咖](https://github.com/Dean12321/qx_scripts/tree/main/05.danka)
 
 [06.云扫码](https://github.com/Dean12321/qx_scripts/tree/main/06.YunSaoMa)
 
