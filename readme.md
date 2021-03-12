@@ -30,7 +30,7 @@
 
 [~~10.悦动族(容易黑)~~](https://github.com/Dean12321/qx_scripts/tree/main/09.ShanZhen)
 
-[~~11.羊毛赚~~](https://github.com/Dean12321/qx_scripts/tree/main/11.YangMaoZhuan)
+[~~11.羊毛赚(跑路)~~](https://github.com/Dean12321/qx_scripts/tree/main/11.YangMaoZhuan)
 
 [12.悬赏喵喵](https://github.com/Dean12321/qx_scripts/tree/main/12.XuanShangMiaoMiao)
 
@@ -48,17 +48,17 @@
 
 [19.返利网](https://github.com/Dean12321/qx_scripts/tree/main/19.FanLiWang)
 
-[~~20.书旗小说~~](https://github.com/Dean12321/qx_scripts/tree/main/20.ShuQiXiaoShuo)
+[~~20.书旗小说(等ziye的)~~](https://github.com/Dean12321/qx_scripts/tree/main/20.ShuQiXiaoShuo)
 
 [21.小乐](https://github.com/Dean12321/qx_scripts/tree/main/21.XiaoLe)
 
 [22.芝嫲](https://github.com/Dean12321/qx_scripts/tree/main/22.ZhiMa)
 
-[~~23.火山视频极速版&燃旅视频~~](https://github.com/Dean12321/qx_scripts/tree/main/23.huoshan%26ranlv)
+[~~23.火山视频极速版&燃旅视频(貌似抓不到ck)~~](https://github.com/Dean12321/qx_scripts/tree/main/23.huoshan%26ranlv)
 
 [24.春风转](https://github.com/Dean12321/qx_scripts/tree/main/24.ChunFengZhuan)
 
-[~~25.中国联通~~](https://github.com/Dean12321/qx_scripts/tree/main/25.ChinaUnicom)
+[~~25.中国联通(貌似抓不到ck)~~](https://github.com/Dean12321/qx_scripts/tree/main/25.ChinaUnicom)
 
 [26.走路赚钱(容易黑)](https://github.com/Dean12321/qx_scripts/tree/main/26.ZouLuZhuanQian)
 
