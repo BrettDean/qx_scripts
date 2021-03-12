@@ -76,7 +76,7 @@
 
 <font color="red" size=72>**分流规则修正**</font>
 
-[自用分流规则修正](https://raw.githubusercontent.com/Dean12321/qx_scripts/main/RULES/rules.conf)
+[自用分流规则修正](https://raw.githubusercontent.com/Dean12321/qx_scripts/main/RULES/README)
 
 
 
