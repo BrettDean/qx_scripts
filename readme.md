@@ -66,6 +66,14 @@
 
 [28.书旗-ziye](https://github.com/Dean12321/qx_scripts/tree/main/28.ShuQi-ziye)
 
+[29.京东](https://github.com/Dean12321/qx_scripts/tree/main/29.JD)
+
+
+
+
+
+
+
 
 <font color="red" size=72>**vip破解整理(部分):**</font>
 
@@ -121,6 +129,7 @@
 [CenBoMin](https://github.com/CenBoMin)<br /> 
 [Light_Zero]<br /> 
 [ZhiYi-N]<br /> 
+[NobyDa](https://github.com/NobyDa)<br /> 
 
 
 
