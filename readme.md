@@ -64,6 +64,9 @@
 
 [27.腾讯自选股](https://github.com/Dean12321/qx_scripts/tree/main/27.TengXunZiXuanGu)
 
+[28.书旗-ziye](https://github.com/Dean12321/qx_scripts/tree/main/28.ShuQi-ziye)
+
+
 <font color="red" size=72>**vip破解整理(部分):**</font>
 
 
