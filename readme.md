@@ -74,7 +74,7 @@
 
 [32.微客众智](https://github.com/Dean12321/qx_scripts/tree/main/32.WeiKeZhongZhi)
 
-
+[33.数码之家](https://github.com/Dean12321/qx_scripts/tree/main/33.ShuMaZhiJia)
 
 <font color="red" size=72>**vip破解整理(部分):**</font>
 
