@@ -70,7 +70,7 @@
 
 [30.书旗-CenBoMin](https://github.com/Dean12321/qx_scripts/tree/main/30.ShuQi-CenBoMin)
 
-
+[31.哈喽短视频](https://github.com/Dean12321/qx_scripts/tree/main/31.HaLouDuanShiPin)
 
 
 
