@@ -130,7 +130,7 @@
 [Light_Zero]<br /> 
 [ZhiYi-N](https://github.com/ZhiYi-N)<br /> 
 [NobyDa](https://github.com/NobyDa)<br /> 
-[o7y0](https://raw.githubusercontent.com/o7y0)<br /> 
+[o7y0](https://github.com/o7y0)<br /> 
 
 
 
