@@ -83,7 +83,7 @@
 
 [02.百度网盘-倍速播放](https://github.com/Dean12321/qx_scripts/tree/main/VIPS/02.dupan_rapid_play)
 
-
+[03.网易云音乐](https://github.com/Dean12321/qx_scripts/tree/main/VIPS/03.NeteaseMusic)
 
 
 <font color="red" size=72>**分流规则修正:**</font>
@@ -125,13 +125,12 @@
 [ziye11](https://github.com/ziye11)×<br /> 
 [Sunert](https://github.com/Sunert)<br /> 
 [erdongchanyo](https://github.com/erdongchanyo)<br /> 
-[GithubSync](https://github.com/CenBoMin/GithubSync)<br /> 
+[CenBoMin](https://github.com/CenBoMin/GithubSync)<br /> 
 [xiaokxiansheng](https://github.com/xiaokxiansheng)<br /> 
-[CenBoMin](https://github.com/CenBoMin)<br /> 
 [Light_Zero]<br /> 
 [ZhiYi-N]<br /> 
 [NobyDa](https://github.com/NobyDa)<br /> 
-
+[o7y0](https://raw.githubusercontent.com/o7y0)<br /> 
 
 
 
