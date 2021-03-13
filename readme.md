@@ -128,7 +128,7 @@
 [CenBoMin](https://github.com/CenBoMin/GithubSync)<br /> 
 [xiaokxiansheng](https://github.com/xiaokxiansheng)<br /> 
 [Light_Zero]<br /> 
-[ZhiYi-N]<br /> 
+[ZhiYi-N](https://github.com/ZhiYi-N)<br /> 
 [NobyDa](https://github.com/NobyDa)<br /> 
 [o7y0](https://raw.githubusercontent.com/o7y0)<br /> 
 
