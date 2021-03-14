@@ -50,7 +50,7 @@
 
 [~~20.书旗小说(等ziye的)~~](https://github.com/Dean12321/qx_scripts/tree/main/20.ShuQiXiaoShuo)
 
-[21.小乐](https://github.com/Dean12321/qx_scripts/tree/main/21.XiaoLe)
+[21.小乐(不推荐)](https://github.com/Dean12321/qx_scripts/tree/main/21.XiaoLe)
 
 [22.芝嫲](https://github.com/Dean12321/qx_scripts/tree/main/22.ZhiMa)
 
@@ -74,7 +74,10 @@
 
 [32.微客众智](https://github.com/Dean12321/qx_scripts/tree/main/32.WeiKeZhongZhi)
 
-[33.数码之家](https://github.com/Dean12321/qx_scripts/tree/main/33.ShuMaZhiJia)
+[~33.数码之家(laji)~](https://github.com/Dean12321/qx_scripts/tree/main/33.ShuMaZhiJia)
+
+[34.多看点](https://github.com/Dean12321/qx_scripts/tree/main/34.DuoKanDian)
+
 
 <font color="red" size=72>**vip破解整理(部分):**</font>
 
