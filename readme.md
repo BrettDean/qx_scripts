@@ -22,7 +22,7 @@
 
 [06.云扫码](https://github.com/Dean12321/qx_scripts/tree/main/06.YunSaoMa)
 
-[07.阅友小说](https://github.com/Dean12321/qx_scripts/tree/main/07.YueYou)
+[~~07.阅友小说(收不到验证码)~~](https://github.com/Dean12321/qx_scripts/tree/main/07.YueYou)
 
 [08.番茄看看](https://github.com/Dean12321/qx_scripts/tree/main/08.FanQIe)
 
@@ -77,6 +77,26 @@
 [~33.数码之家(laji)~](https://github.com/Dean12321/qx_scripts/tree/main/33.ShuMaZhiJia)
 
 [34.多看点](https://github.com/Dean12321/qx_scripts/tree/main/34.DuoKanDian)
+
+[35.抖音极速版](https://github.com/Dean12321/qx_scripts/tree/main/35.DouYinJiSuBan)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <font color="red" size=72>**vip破解整理(部分):**</font>
