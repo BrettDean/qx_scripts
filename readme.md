@@ -80,7 +80,7 @@
 
 [35.抖音极速版](https://github.com/Dean12321/qx_scripts/tree/main/35.DouYinJiSuBan)
 
-
+[36.快看点](https://github.com/Dean12321/qx_scripts/tree/main/36.KuaiKanDian)
 
 
 
