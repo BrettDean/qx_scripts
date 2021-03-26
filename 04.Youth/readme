@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/Youth/Y
 
 [task_local]
 
-
+1 */5 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, enabled=true, tag=中青看点
 # 中青签到&转盘宝箱
 */10 5-23 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag= 中青签到&转盘宝箱, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true
 
