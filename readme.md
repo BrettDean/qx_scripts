@@ -82,7 +82,11 @@
 
 [36.快看点](https://github.com/Dean12321/qx_scripts/tree/main/36.KuaiKanDian)
 
+[~~37.阳光矿场~~](https://github.com/Dean12321/qx_scripts/tree/main/37.YangGuangKuangChang)
 
+[38.66阅读(永久黑号,貌似)](https://github.com/Dean12321/qx_scripts/tree/main/38.SixSixReading)
+
+[39.腾讯新闻](https://github.com/Dean12321/qx_scripts/tree/main/39.txnews)
 
 
 
