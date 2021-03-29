@@ -88,6 +88,7 @@
 
 [39.腾讯新闻](https://github.com/Dean12321/qx_scripts/tree/main/39.txnews)
 
+[40.文创阅读](https://github.com/Dean12321/qx_scripts/tree/main/40.WenChuangYuedu)
 
 
 
