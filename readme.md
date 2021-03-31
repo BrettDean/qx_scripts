@@ -92,13 +92,13 @@
 
 [41.西梅](https://github.com/Dean12321/qx_scripts/tree/main/41.XiMei)
 
-[42.朗果英语](https://raw.githubusercontent.com/Dean12321/qx_scripts/main/42.LangGuoYingYu)
+[42.朗果英语](https://github.com/Dean12321/qx_scripts/tree/main/42.LangGuoYingYu)
 
-[43.最强蜗牛](https://raw.githubusercontent.com/Dean12321/qx_scripts/main/43.ZuiQiangWoNiu)
+[43.最强蜗牛](https://github.com/Dean12321/qx_scripts/tree/main/43.ZuiQiangWoNiu)
 
-[44.葫芦音乐](https://raw.githubusercontent.com/Dean12321/qx_scripts/main/44.HuluMusic)
+[44.葫芦音乐](https://github.com/Dean12321/qx_scripts/tree/main/44.HuluMusic)
 
-[45.悦趣阅读](https://raw.githubusercontent.com/Dean12321/qx_scripts/main/45.YueQuRead)
+[45.悦趣阅读](https://github.com/Dean12321/qx_scripts/tree/main/45.YueQuRead)
 
 
 
