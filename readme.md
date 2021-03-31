@@ -90,12 +90,15 @@
 
 [40.文创阅读](https://github.com/Dean12321/qx_scripts/tree/main/40.WenChuangYuedu)
 
+[41.西梅](https://github.com/Dean12321/qx_scripts/tree/main/41.XiMei)
 
+[42.朗果英语](https://raw.githubusercontent.com/Dean12321/qx_scripts/main/42.LangGuoYingYu)
 
+[43.最强蜗牛](https://raw.githubusercontent.com/Dean12321/qx_scripts/main/43.ZuiQiangWoNiu)
 
+[44.葫芦音乐](https://raw.githubusercontent.com/Dean12321/qx_scripts/main/44.HuluMusic)
 
-
-
+[45.悦趣阅读](https://raw.githubusercontent.com/Dean12321/qx_scripts/main/45.YueQuRead)
 
 
 
