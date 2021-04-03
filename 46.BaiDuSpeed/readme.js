@@ -6,7 +6,7 @@
 [rewrite_remote]
 
 #百度极速版_ck
-https://raw.githubusercontent.com/Dean12321/qx_scripts/main/43.ZuiQiangWoNiu/LangGuoYingYu_ck.conf, tag=百度极速版ck, update-interval=86400, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/Dean12321/qx_scripts/main/46.BaiDuSpeed/BaiDuSpeed_ck.conf, tag=百度极速版ck, update-interval=86400, opt-parser=true, enabled=true
 
 
 
