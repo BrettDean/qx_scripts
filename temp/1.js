@@ -1,106 +1,122 @@
 {
-	"id": "hlyy",
-	"name": "葫芦音乐",
-	"keys": ["hlyyurl", "hlyyhd", "hlyyurl2", "hlyyhd2", "hlyyurl3", "hlyyhd3", "hlyyurl4", "hlyyhd4", "hlyyurl5", "hlyyhd5", "hlyyurl6", "hlyyhd6", "hlyyurl7", "hlyyhd7", "hlyyurl8", "hlyyhd8", "hlyyurl9", "hlyyhd9", "hlyyurl10", "hlyyhd10"],
+	"id": "ximei",
+	"name": "西梅",
+	"keys": ["ximeiurl", "ximeihd", "ximeiurl2", "ximeihd2", "ximeiurl3", "ximeihd3", "ximeiurl4", "ximeihd4", "ximeiurl5", "ximeihd5", "ximeiurl6", "ximeihd6", "ximeiurl7", "ximeihd7", "ximeiurl8", "ximeihd8", "ximeiurl9", "ximeihd9", "ximeiurl10", "ximeihd10", "ximeiurl11", "ximeihd11", "ximeiurl12", "ximeihd12"],
 	"author": "@feizao",
 	"settings": [{
-		"id": "hlyystatus",
+		"id": "ximeistatus",
 		"name": "当前账号",
 		"val": "1",
 		"type": "number",
 		"desc": "当前账号对应"
 	},
 	{
-		"id": "hlyycount",
+		"id": "ximeicount",
 		"name": "账号个数",
 		"val": "1",
 		"type": "number",
 		"desc": "需要几个账号，数字为几"
 	}],
-	"repo": "https://github.com/age174/-/blob/main/hlyy.js",
-	"icons": ["https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg", "https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg"],
-	"script": "https://raw.githubusercontent.com/age174/-/main/hlyy.js",
-	"icon": "https://ae01.alicdn.com/kf/U49d941738c0c41569f7db55825943375f.jpg",
+	"repo": "https://github.com/age174/-/blob/main/ximei.js",
+	"icons": ["https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg", "https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg"],
+	"script": "https://raw.githubusercontent.com/age174/-/main/ximei.js",
+	"icon": "https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg",
 	"favIcon": "mdi-star",
 	"favIconColor": "primary",
 	"datas": [{
-		"key": "hlyyurl",
-		"val": "https://play.gxhuancai.com/hlplay/task/doTasks?appVersion=1.1.3&deviceId=BoMjlZYrtoRjTM0aippZtaaV5n4vt%2Bt3u1OTcY2V/ILLUhs302CNoOv7WoroL4Q%2BlbYxx9nYe/0JMWSoDYzIkoA%3D%3D&os=ios&tc=fyrEegQJ_uc8tcfU-pTXIQH0Hs6ltsads&tl=35&ut=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI4MDY1NjE4NDMyMzI3MjIxMjQ4Iiwic3ViIjoiY2pXTFc1RU40S1FYTmFwcC1rVEk0WVBGemt3bG9oWndzIiwiaWF0IjoxNjE3MjM0MTYzLCJleHAiOjE2MjUwMTAxNjN9.jNPgSZq1lKpjynAaPGCk8FCFngB3Aek6ld4iLy6ML5g"
+		"key": "ximeiurl",
+		"val": "https://app.hubonews.com/v2/articles/list"
 	},
 	{
-		"key": "hlyyhd",
-		"val": "{\"Accept\":\"*/*\",\"Accept-Encoding\":\"br;q=1.0, gzip;q=0.9, deflate;q=0.8\",\"Connection\":\"keep-alive\",\"Host\":\"play.gxhuancai.com\",\"User-Agent\":\"hulumusic/1.1.3 (com.xiaoniu.hulumusic; build:22; iOS 14.4.0) Alamofire/5.4.1\",\"app_info\":\"1.1.3,ios,14.4,appstore,com.xiaoniu.hulumusic\",\"Accept-Language\":\"zh-Hans-CN;q=1.0, en-CN;q=0.9\",\"Content-Length\":\"0\"}"
+		"key": "ximeihd",
+		"val": "{\"Accept-Encoding\":\"gzip, deflate, br\",\"Host\":\"app.hubonews.com\",\"X_CLIENT_CHANNEL\":\"App Store\",\"X_CLIENT_APP\":\"com.tigerye.tigerobo\",\"X_CLIENT_PLATFORM\":\"iOS\",\"Connection\":\"keep-alive\",\"DEVICE_ID\":\"ED0A035F-3074-419A-AC01-C244DF2C51B7\",\"BRAND_PRODUCT\":\"Apple-iPhone13,2\",\"X_CLIENT_TRANSLATION_LANGUAGE\":\"en\",\"Accept-Language\":\"zh-Hans-CN;q=1, en-CN;q=0.9\",\"User-Agent\":\"tigerobo/2.6.4 (iPhone; iOS 14.4; Scale/3.00)\",\"Content-Type\":\"application/json\",\"X_CLIENT_IDFA\":\"D133DCB7-679B-454F-8466-1FA2A6DB6738\",\"X_CLIENT_COUNTRY\":\"CN\",\"X_CLIENT_VERSION\":\"2.6.4\",\"Accept\":\"*/*\",\"API_AUTHORIZATION\":\"sFGAGILUVoqENPVcjIUx\",\"X_CLIENT_BUILD\":\"220\",\"X_CLIENT_LANGUAGE\":\"zh\",\"Content-Length\":\"55\"}"
 	},
 	{
-		"key": "hlyyurl2",
+		"key": "ximeiurl2",
 		"val": ""
 	},
 	{
-		"key": "hlyyhd2",
+		"key": "ximeihd2",
 		"val": ""
 	},
 	{
-		"key": "hlyyurl3",
+		"key": "ximeiurl3",
 		"val": ""
 	},
 	{
-		"key": "hlyyhd3",
+		"key": "ximeihd3",
 		"val": ""
 	},
 	{
-		"key": "hlyyurl4",
+		"key": "ximeiurl4",
 		"val": ""
 	},
 	{
-		"key": "hlyyhd4",
+		"key": "ximeihd4",
 		"val": ""
 	},
 	{
-		"key": "hlyyurl5",
+		"key": "ximeiurl5",
 		"val": ""
 	},
 	{
-		"key": "hlyyhd5",
+		"key": "ximeihd5",
 		"val": ""
 	},
 	{
-		"key": "hlyyurl6",
+		"key": "ximeiurl6",
 		"val": ""
 	},
 	{
-		"key": "hlyyhd6",
+		"key": "ximeihd6",
 		"val": ""
 	},
 	{
-		"key": "hlyyurl7",
+		"key": "ximeiurl7",
 		"val": ""
 	},
 	{
-		"key": "hlyyhd7",
+		"key": "ximeihd7",
 		"val": ""
 	},
 	{
-		"key": "hlyyurl8",
+		"key": "ximeiurl8",
 		"val": ""
 	},
 	{
-		"key": "hlyyhd8",
+		"key": "ximeihd8",
 		"val": ""
 	},
 	{
-		"key": "hlyyurl9",
+		"key": "ximeiurl9",
 		"val": ""
 	},
 	{
-		"key": "hlyyhd9",
+		"key": "ximeihd9",
 		"val": ""
 	},
 	{
-		"key": "hlyyurl10",
+		"key": "ximeiurl10",
 		"val": ""
 	},
 	{
-		"key": "hlyyhd10",
+		"key": "ximeihd10",
+		"val": ""
+	},
+	{
+		"key": "ximeiurl11",
+		"val": ""
+	},
+	{
+		"key": "ximeihd11",
+		"val": ""
+	},
+	{
+		"key": "ximeiurl12",
+		"val": ""
+	},
+	{
+		"key": "ximeihd12",
 		"val": ""
 	}],
 	"sessions": [],
