@@ -100,6 +100,7 @@
 
 [45.悦趣阅读](https://github.com/Dean12321/qx_scripts/tree/main/45.YueQuRead)
 
+[46.百度极速版](https://github.com/Dean12321/qx_scripts/tree/main/46.BaiDuSpeed)
 
 
 
