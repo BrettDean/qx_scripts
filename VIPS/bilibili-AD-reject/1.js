@@ -1,5 +1,5 @@
 //原404：https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20bilibili%20tab.js
-
+//匹配URL：https://app.bilibili.com/x/resource/show/tab\?access_key
 let body = $response.body
 
 body = JSON.parse(body)
