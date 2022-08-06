@@ -104,7 +104,7 @@ obj ={
     "platform_id": "",
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJ1c2VyX2lkIjoiNjBmN2Y5MjE3MTEyY2EwMDExMGI1NjdmIiwic3ZpcF9leHBpcmVkX2F0IjoxNjYzMTUxOTQwLjk0NjQ3NCwidmlwX2V4cGlyZWRfYXQiOjB9.ezQpaDFL1T_WCIZq42Q71hLgGa9DYDBaz0OjDzeuf2I",
     "svip_given": 0,
-    "avatar": "https://picturebed.sweety.cloud/head.jpg",
+    "avatar": "https://picturebed.sweety.cloud/head.png",
     "is_vip": true,
     "gender": "0",
     "_id": "60f7f9217112ca00110b567f"
